@@ -1,7 +1,123 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Personal introduction page of a Computer Science student.">
+    <title>Introduction - Computer Science Student</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,700&display=swap">
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            background-color: #f0f4f8;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        .container {
+            max-width: 900px;
+            margin: 50px auto;
+            background-color: #ffffff;
+            padding: 40px;
+            box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+        }
+        h1 {
+            font-size: 2.5rem;
+            color: #1a73e8;
+            margin-bottom: 10px;
+        }
+        p {
+            font-size: 1.2rem;
+            line-height: 1.6;
+            margin-bottom: 20px;
+        }
+        .profile-picture {
+            border-radius: 50%;
+            width: 150px;
+            height: 150px;
+            object-fit: cover;
+            margin: 0 auto;
+            display: block;
+            margin-bottom: 20px;
+        }
+        .skills {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-bottom: 30px;
+        }
+        .skill {
+            background-color: #1a73e8;
+            color: #fff;
+            padding: 10px 20px;
+            border-radius: 20px;
+            font-size: 1rem;
+            font-weight: 400;
+        }
+        a {
+            color: #1a73e8;
+            text-decoration: none;
+            font-weight: 700;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .social-links {
+            margin-top: 20px;
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+        }
+        .social-links a {
+            color: #333;
+            font-size: 1.5rem;
+        }
+        footer {
+            margin-top: 50px;
+            text-align: center;
+            font-size: 0.9rem;
+            color: #777;
+        }
+    </style>
+</head>
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+    <div class="container">
+        <img src="https://via.placeholder.com/150" alt="Profile Picture" class="profile-picture">
+        <h1>Hello, I'm [Your Name]!</h1>
+        <p>I'm a passionate Computer Science student with a focus on software development, machine learning, and full-stack web development. I love exploring new technologies, solving challenging problems, and contributing to open-source projects. I’m always eager to learn more and collaborate on exciting projects.</p>
+        
+        <h2>Skills</h2>
+        <div class="skills">
+            <div class="skill">Python</div>
+            <div class="skill">JavaScript</div>
+            <div class="skill">React</div>
+            <div class="skill">HTML/CSS</div>
+            <div class="skill">C++</div>
+            <div class="skill">SQL</div>
+            <div class="skill">Machine Learning</div>
+        </div>
+
+        <h2>Projects</h2>
+        <p>Here are a few of the projects I've worked on:</p>
+        <ul>
+            <li><a href="#">Portfolio Website</a> - A personal portfolio showcasing my skills and projects.</li>
+            <li><a href="#">To-Do List App</a> - A simple, user-friendly to-do list app built using React.</li>
+            <li><a href="#">ML Model for Predicting Housing Prices</a> - A machine learning model that predicts housing prices using data from the real estate market.</li>
+        </ul>
+
+        <div class="social-links">
+            <a href="https://github.com/yourusername" target="_blank"><i class="fab fa-github"></i> GitHub</a>
+            <a href="https://linkedin.com/in/yourusername" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
+            <a href="mailto:youremail@example.com"><i class="fas fa-envelope"></i> Email</a>
+        </div>
+    </div>
+
+    <footer>
+        <p>Made with ❤️ by [Your Name] | <a href="https://github.com/yourusername">GitHub</a></p>
+    </footer>
+
+    <!-- FontAwesome for social icons -->
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
 </body>
 </html>
