@@ -49,7 +49,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "Projects and Tech",
-  subTitle: "These are the topics I've focused on over the years! You can find all these projects on my GitHub.",
+  subTitle: "These are the topics I've focused on over the years! You can find all these projects and more linked below in the Open Source section.",
   skills: [
     emoji(
       "⚡ VentureAI: An automated travel agent that will provide dynamic LLM generated suggestions for user travel itineraries while utilizing API data."
