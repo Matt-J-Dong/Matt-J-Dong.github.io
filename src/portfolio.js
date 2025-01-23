@@ -26,7 +26,8 @@ const greeting = {
     "Currently studying for a masters in Computer Science at the Courant Institute of Mathematical Sciences, New York University."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/12ya06LAQAGxnufhz_butrxzRjP0qYEgM/view?usp=drive_link", // Set to empty to hide the button
+    "https://drive.usercontent.google.com/u/0/uc?id=12ya06LAQAGxnufhz_butrxzRjP0qYEgM&export=download", //This should hopefully be the right download link, view link doesn't work
+    // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
