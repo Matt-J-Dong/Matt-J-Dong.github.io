@@ -4,7 +4,8 @@
 Personal Website!
 
 Changelog:
-Favicons updated from the automatic one.
+Favicons updated from the automatic one. (Favicon.io)
+Embeds updated from the basic one.
 Modified resume download to include my name in the file name
 Actually made resume download work
 Linked my GitHub repos
