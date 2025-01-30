@@ -2,8 +2,10 @@
 
 ## Version 1.0.0 completed!
 Personal Website!
+Use `npm run deploy`
 
 Changelog:
+Updated resume to 2025 version.
 Favicons updated from the automatic one. (Favicon.io)
 Embeds updated from the basic one.
 Modified resume download to include my name in the file name
