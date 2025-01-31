@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.9c9afc7d.css",
-    "main.js": "/static/js/main.7b82d563.js",
+    "main.js": "/static/js/main.719a1efa.js",
     "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
     "static/js/64.d32d1aff.chunk.js": "/static/js/64.d32d1aff.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
     "static/js/769.8ed54f6a.chunk.js": "/static/js/769.8ed54f6a.chunk.js",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
-    "static/media/Matthew_Dong_Resume_2025.pdf": "/static/media/Matthew_Dong_Resume_2025.ea83ca0d36b05c78f4a6.pdf",
+    "static/media/Matthew_Dong_Resume_2025.pdf": "/static/media/Matthew_Dong_Resume_2025.d189663f8de66c128e84.pdf",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
@@ -23,7 +23,7 @@
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.9c9afc7d.css.map": "/static/css/main.9c9afc7d.css.map",
-    "main.7b82d563.js.map": "/static/js/main.7b82d563.js.map",
+    "main.719a1efa.js.map": "/static/js/main.719a1efa.js.map",
     "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
     "64.d32d1aff.chunk.js.map": "/static/js/64.d32d1aff.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
@@ -31,6 +31,6 @@
   },
   "entrypoints": [
     "static/css/main.9c9afc7d.css",
-    "static/js/main.7b82d563.js"
+    "static/js/main.719a1efa.js"
   ]
 }
