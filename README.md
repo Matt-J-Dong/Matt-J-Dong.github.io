@@ -5,7 +5,7 @@ Personal Website!
 Use `npm run deploy`
 
 Changelog:
-Updated resume to 2025 version.
+Updated resume to 2025 public version. (March 4th)
 Favicons updated from the automatic one. (Favicon.io)
 Embeds updated from the basic one.
 Modified resume download to include my name in the file name
